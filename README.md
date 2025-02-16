@@ -1,1 +1,1 @@
-# face-detection
+# face-detection-attendance-system
